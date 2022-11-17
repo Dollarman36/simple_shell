@@ -1,1 +1,1 @@
-simple shell programme using C programming language authored by Leonard Eze and Dollars Dollars
+a gruop project for performing some basic shell commands
